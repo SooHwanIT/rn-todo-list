@@ -40,6 +40,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
+    backgroundColor:'#fffbd6',
   },
   text: {
     flex: 5,
